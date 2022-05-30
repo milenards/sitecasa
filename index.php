@@ -9,7 +9,8 @@
 <body>
     <h1>Olá </h1>
     <a href = "telaLogin.php" >Cadastrar email e senha</a>
+    <br>
 
-    <a href = https://milenards.github.io/Cidade/ </a> 
+    <a href = https://milenards.github.io/Cidade/ > git cidade </a> 
 </body>
 </html>
