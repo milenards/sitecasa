@@ -11,6 +11,6 @@
     <a href = "telaLogin.php" >Cadastrar email e senha</a>
     <br>
 
-    <a href = https://milenards.github.io/Cidade/ > git cidade </a> 
+    <a href = "lista.php" > visualizar telas</a> 
 </body>
 </html>
