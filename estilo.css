@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body
+{
+    background-color:#C3E6FF;
+}
+
+h1
+{
+    font: size 25px;
+    text-align: center;
+    font-family: 'Playball';
+    margin-top: 52px;
+    width: 1200px;
+    color: #ff0000;
+}
+
+
+
+
+.btncadastro
+{
+    background-color: rgb(146, 126, 255);
+    border-color: rgb(0, 0, 0);  
+    font-family: 'Playball';
+    margin-top: 52px;
+    width: 500px;
+    text-align: center;
+    color: #000000;
+
+    
+    text-align: center;
+
+    text-decoration: none;
+
+    font-size: 18px;
+
+    border: 1px solid;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+.btnVerificarCadastro
+{
+    background-color: rgb(146, 126, 255);
+    border-color: rgb(0, 0, 0);
+    font-family: 'Playball';
+    margin-top: 52px;
+    text-align: center;
+    width: 1200px;
+    color: #000000;
+
+    text-decoration: none;
+
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid;
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 300px;
+}
