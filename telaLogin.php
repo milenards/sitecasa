@@ -12,10 +12,11 @@
 
     <form action="cadastroLogin.php" method="post">
     Email:
-    <input name="email">
+    <input type="email" name="email" >
+    
     <br>
     Senha:
-    <input name="senha">
+    <input type="password" name="senha">
 
     <button type="submit">Salvar</button>
     </form>
